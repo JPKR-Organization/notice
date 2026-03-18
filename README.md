@@ -13,12 +13,13 @@ This page provides documents and notification messages of the challenge to all p
   - 12:40 ~ 14:20 Competition 1h 40m
   - 14:20 ~ 14:30 Break 10m
   - 14:30 ~ 16:20 Competition 1h 50m
-- The grow application provides the /growadmin page. This page must not be accessible from the Internet.
 - Traffic will be injected starting 2 hours later.
 - The scoreboard is provided on the grafana dashboard. you can open the below URL.
   - http://52.79.102.202:3000
   - The host will provide the username and password via group chat.
   - The score is an item regarding traffic processing.
+- The grow application provides the /growadmin api. This api must not be accessible from the Internet.
+- All Keycloak users must have the same password. Please set it your mind and leave the password you set in the private chat.
 
 ## C2
 - Given competition time is 6 hours
