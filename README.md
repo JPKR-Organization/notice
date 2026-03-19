@@ -1,6 +1,17 @@
 # JP-KR Challenges Notice
 This page provides documents and notification messages of the challenge to all participants.
 
+## C4
+- Given competition time is 3 hours.
+- It's today time schedule.
+  - 09:10 ~ 09:25 Reading 15m
+  - 09:25 ~ 09:30 QnA 5m
+  - 09:30 ~ 10:30 Competition 1h
+  - 10:30 ~ 10:40 Break 10m
+  - 10:40 ~ 11:50 Competition 1h 10m
+  - 11:50 ~ 12:40 Lunch 
+  - 12:40 ~ 13:30 Competition 50m
+
 ## C3
 - Given competition time is 6 hours.
 - It's today time schedule.
